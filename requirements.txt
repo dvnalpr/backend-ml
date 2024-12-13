@@ -1,0 +1,6 @@
+Flask
+tensorflow
+numpy
+google-cloud-storage
+gunicorn
+opencv-python
